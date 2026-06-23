@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:1F6FEB,70:22C55E,100:F97316&text=Phung%20Van%20Duoc&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Full-stack%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" alt="Phung Van Duoc profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:1F6FEB,70:22C55E,100:F97316&text=Phung%20Van%20Duoc&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Java%20Developer%20%7C%20Frontend%20Engineer%20%7C%20Backend%20Engineer%20%7C%20Full-stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" alt="Phung Van Duoc profile banner" />
 </p>
 
 <p align="center">
